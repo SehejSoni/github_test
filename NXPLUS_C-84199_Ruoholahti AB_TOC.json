@@ -1,0 +1,189 @@
+{
+    "Project Data" :{
+        "Project Key Word:":{
+            "value" :"Ruoholahden syöttöasema RL-S10-AB 24/10kV 25kA/1s"
+        },
+        "Switchgear Number:":{
+            "value" : "NXPLUS_C-84199"
+        },
+        "No of Typicals":{
+            "value" :""
+        },
+        "SAP Number:": {
+            "value" : "4512939022 item 10"
+        },
+        "No. Of Panels :":{
+            "value" : 6
+        },
+        "Customer:":{
+            "value" : "Siemens Mobility"
+        },
+        " Detail Design issued for approval: ":{
+            "value": ""
+        },
+        "Days For Approval":{
+            "value": ""
+        },
+        "Add Participants" : {
+            "value1":{
+                "Participant:" : "Hakan Yilmaz",
+                "Contact:" : "Project Manager",
+                "Email Id:" : "hakan.yilmaz@siemens.com",
+                "Phone:" : "+358 50 316 4150"
+            },
+            "value2":{
+                "Participant:" : "",
+                "Contact:" : "Project Designer ",
+                "Email Id:" : "",
+                "Phone:" : ""
+            }
+        }
+    },
+    "Documentation" :{
+        " Please take note of the currently applied versions of CAD packages: " :{
+            "value" : ""
+        },
+        " Documentation can be transferred in the following formats: ":{
+            "value" : ["PDF", "DFX"]
+        },
+        " Language of documentation: " :{
+            "value" : "English"
+        },
+        "Additional terminals" :{
+            "value" : ""
+        }
+    },
+    "Parameter Setting":{
+        " Parameter settings of protection relays: ":{
+            "value" : ""
+        },
+        " Parameter Settings of bus interface: " :{
+            "value" : ""
+        },
+        "additionalParamSettings":{
+            "value" : ""
+        }
+    },
+    "Wiring Options" :{
+        " CT circuit " :{
+            "value" : "4,0"
+        },
+        " VT circuit ":{
+            "value" : "2,5"
+        },
+        "Control":{
+            "value" :"1,5 (Standard)"
+        },
+        "Bus Wiring":{
+            "value":"4,0"
+        },
+        " Colored Insulation " :{
+            "value" : "Black (Standard)"
+        },
+        " Wire Type ":{
+            "value" : "H05V-K/H07V-K (Standard) (Silicon free, 70 Degree)"
+        },
+        "Wire Marking":{
+            "value" :"With"
+        },
+        "Type :":{
+            "value" : "Printed or White Label"
+        },
+        "Text":{
+            "value" : "Connection (Standard)"
+        },
+        "Panel Nameplate :" :{
+            "value" : "Plastic holder with paper 140 x 55 mm (Standard)"
+        },
+        "Control :":{
+            "value" : ""
+        },
+        "CT terminals:" :{
+            "value":""
+        },
+        "Earth terminals :":{
+            "value" : ""
+        },
+        "Bus Wiring terminals:" : {
+            "value" : ""
+        },
+        "Customer requirements for layout and connection of CT terminals :" :{
+            "value" :"No"
+        },
+        "Customer requirements for layout and connection of VT terminals :" :{
+            "value" :""
+        },
+        "Customer requirements for layout and connection of Tripping terminals" :{
+            "value" :""
+        },
+        "Customer requirement for protection of Open Delta winding and connection of damping resistor :" :{
+            "value" :"No"
+        }
+ 
+    },
+    "Auxiliary Voltage" : {
+        " Auxiliary Voltage " : {
+            "value" : "External supply fed into panel: J01"
+        }
+    },
+    "Overall switchgear interlocking" :{
+        "Overall switchgear interlocking :" :{
+            "value" :"as indicated below: + See also 984477 (same philosophy)"
+        },
+        "On Load Busbar Transfer:":{
+            "value" : "Not required"
+        },
+        "Load Shedding:":{
+            "value" : "Not Required"
+        },
+        "Others":{
+            "value" : "See also 984477"
+        },
+        "Description": {
+            "value" : ""
+        }
+    },
+    "Detailed Description Required" : {
+        "Overall protection functions :" :{
+            "value" : ""
+        }
+    },
+    "Heater and Lighting" :{
+        "LV compartment lighting:":{
+            "value" :"No"
+        },
+        "LV compartment Heater:":{
+            "value" :"No"
+        },
+        "CB Mechanism heater":{
+            "value" :"No"
+        },
+        "LV compartment Utility Socket Outlet":{
+            "value" :"No"
+        }
+    },
+    "Remote Control" : {
+        "Remote Control" :{
+            "value" : ""
+        }
+    },
+    "Typicals Section" :{
+        " Select Typicals ":{
+            "value1" :{
+                "Technical Details for Typical" : "",
+                "Typical Designation" : "",
+                "value" : {
+                    "Additional Earth Switch Functions" : ""
+                }
+            },
+            "value2" :{
+                "Technical Details for Typical" : "",
+                "Protection Relay" :"",
+                "value" : {
+                    "Additional Earth Switch Functions" : "",
+                    "Signals From panel" : []
+                }
+            }
+        }
+    }
+}

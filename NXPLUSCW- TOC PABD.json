@@ -1,0 +1,189 @@
+{
+    "Project Data" :{
+        "Project Key Word:":{
+            "value" :"Rob Valley 33 kV switchgear PABD"
+        },
+        "Switchgear Number:":{
+            "value" : ""
+        },
+        "No of Typicals":{
+            "value" :""
+        },
+        "SAP Number:": {
+            "value" : ""
+        },
+        "No. Of Panels :":{
+            "value" : ""
+        },
+        "Customer:":{
+            "value" : "Rio Tinto /Calibre"
+        },
+        " Detail Design issued for approval: ":{
+            "value": "Yes"
+        },
+        "Days For Approval":{
+            "value": 10
+        },
+        "Add Participants" : {
+            "value1":{
+                "Participant:" : "Ken Machell",
+                "Contact:" : "Project Manager",
+                "Email Id:" : "Ken.Machell@siemens.com",
+                "Phone:" : "+61 438 048-622"
+            },
+            "value2":{
+                "Participant:" : "Beau Wang",
+                "Contact:" : "Project Engineer  ",
+                "Email Id:" : "beau.wang@siemens.com",
+                "Phone:" : "+61-(0)409827915"
+            }
+        }
+    },
+    "Documentation" :{
+        " Please take note of the currently applied versions of CAD packages: " :{
+            "value" : ""
+        },
+        " Documentation can be transferred in the following formats: ":{
+            "value" : ["PDF", "DFX", "Documentation per panel"]
+        },
+        " Language of documentation: " :{
+            "value" : "English"
+        },
+        "Additional terminals" :{
+            "value" : ""
+        }
+    },
+    "Parameter Setting":{
+        " Parameter settings of protection relays: ":{
+            "value" : ""
+        },
+        " Parameter Settings of bus interface: " :{
+            "value" : ""
+        },
+        "additionalParamSettings":{
+            "value" : ""
+        }
+    },
+    "Wiring Options" :{
+        " CT circuit " :{
+            "value" : "2,5 (Standard)"
+        },
+        " VT circuit ":{
+            "value" : "2,5"
+        },
+        "Control":{
+            "value" :"1,5 (Standard)"
+        },
+        "Bus Wiring":{
+            "value":"2,5 (Standard)"
+        },
+        " Colored Insulation " :{
+            "value" : "Coloured: CT/VT system: red/white/blue, black for neutral. 110VDC: White/Black. Earth: Yellow/Green. If any CT/VT are supplied with  black leads, they shall be colour-marked as red/white/blue using colour sleeves."
+        },
+        " Wire Type ":{
+            "value" : "Special (KUKO included): Ring loop wire: Heluterm 145 (450/750V, 145°) Other secondary wire other than ring loop: H07V-K (450/750V, V-70)"
+        },
+        "Wire Marking":{
+            "value" :"With"
+        },
+        "Type :":{
+            "value" : "Printed or White Label"
+        },
+        "Text":{
+            "value" : "Source & Destination"
+        },
+        "Panel Nameplate :" :{
+            "value" : "Other: Nameplate for each panel shall be screwed, engraved traffolyte type. See attached “Panel ID Label List”"
+        },
+        "Control :":{
+            "value" : ""
+        },
+        "CT terminals:" :{
+            "value":""
+        },
+        "Earth terminals :":{
+            "value" : ""
+        },
+        "Bus Wiring terminals:" : {
+            "value" : ""
+        },
+        "Customer requirements for layout and connection of CT terminals :" :{
+            "value" :"Yes All CT/VT wiring shall be via test blocks mounted on LV door. CB TRIP wiring shall be via test blocks mounted on LV door. CB/DS/ES OPEN/CLOSE wiring does NOT need test blocks."
+        },
+        "Customer requirements for layout and connection of VT terminals :" :{
+            "value" :""
+        },
+        "Customer requirements for layout and connection of Tripping terminals" :{
+            "value" :""
+        },
+        "Customer requirement for protection of Open Delta winding and connection of damping resistor :" :{
+            "value" :"No"
+        }
+ 
+    },
+    "Auxiliary Voltage" : {
+        " Auxiliary Voltage " : {
+            "value" : ""
+        }
+    },
+    "Overall switchgear interlocking" :{
+        "Overall switchgear interlocking :" :{
+            "value" :"as indicated below:"
+        },
+        "On Load Busbar Transfer:":{
+            "value" : "Not required"
+        },
+        "Load Shedding:":{
+            "value" : "Not Required"
+        },
+        "Others":{
+            "value" : "Fortress Key interlocking is requried per attached Key Interlocking Schedule. Key interlocking shall interlock both mecahnical and electrical operation."
+        },
+        "Description": {
+            "value" : ""
+        }
+    },
+    "Detailed Description Required" : {
+        "Overall protection functions :" :{
+            "value" : ""
+        }
+    },
+    "Heater and Lighting" :{
+        "LV compartment lighting:":{
+            "value" :"No      "
+        },
+        "LV compartment Heater:":{
+            "value" :"No      "
+        },
+        "CB Mechanism heater":{
+            "value" :"Yes 110V DC"
+        },
+        "LV compartment Utility Socket Outlet":{
+            "value" :"No"
+        }
+    },
+    "Remote Control" : {
+        "Remote Control" :{
+            "value" : "with Local / Remote switch (located in remote switching & indication panel (RSIP))"
+        }
+    },
+    "Typicals Section" :{
+        " Select Typicals ":{
+            "value1" :{
+                "Technical Details for Typical" : "HZ01- Incomer",
+                "Typical Designation" : "",
+                "value" : {
+                    "Additional Earth Switch Functions" : "Relay and conventional control (conventional elements operate via relay BIs)"
+                }
+            },
+            "value2" :{
+                "Technical Details for Typical" : "Transformer without Tx-diff protection: HZ03 HZ03a",
+                "Protection Relay" :"as indicated below:",
+                "value" : {
+                    "Additional Earth Switch Functions" : "Relay and conventional control (conventional elements operate via relay BOs)",
+                    "Signals From panel" : ["Status indication of CB, DS, ES for hardwiring to RSIP (remote switching/indication panel).", "Status indication of CB, DS for hardwiring to remote Bus Zone protection relay 7SS8", "BO assigned as Transformer Oil HH Temp intertrip", "33kV “DS OPENNED” N/O contact (interlocking to remote)", "FEEDER EARTHED, i.e. TPS READY-TO-EARTH & CB CLOSED", "CT wiring from 7UT8 to remote BZ protection relay 7SS8 via test blocks."]
+                }
+            }
+        }
+    }
+}

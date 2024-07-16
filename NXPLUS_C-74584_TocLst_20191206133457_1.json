@@ -1,0 +1,189 @@
+{
+    "Project Data" :{
+        "Project Key Word:":{
+            "value" :"Alsema 4 Velden NxplusC"
+        },
+        "Switchgear Number:":{
+            "value" : "NXPLUS_C-74584"
+        },
+        "No of Typicals":{
+            "value" :""
+        },
+        "SAP Number:": {
+            "value" : ""
+        },
+        "No. Of Panels :":{
+            "value" : 4
+        },
+        "Customer:":{
+            "value" : "Alsema"
+        },
+        " Detail Design issued for approval: ":{
+            "value": "Yes"
+        },
+        "Days For Approval":{
+            "value": 5
+        },
+        "Add Participants" : {
+            "value1":{
+                "Participant:" : "Asserghine, Hicham",
+                "Contact:" : "Project Manager",
+                "Email Id:" : "hicham.asserghine@siemens.com",
+                "Phone:" : "+31 6 19301538"
+            },
+            "value2":{
+                "Participant:" : "",
+                "Contact:" : "Project Designer ",
+                "Email Id:" : "",
+                "Phone:" : ""
+            }
+        }
+    },
+    "Documentation" :{
+        " Please take note of the currently applied versions of CAD packages: " :{
+            "value" : ""
+        },
+        " Documentation can be transferred in the following formats: ":{
+            "value" : ["PDF"]
+        },
+        " Language of documentation: " :{
+            "value" : "Other language: DUTCH"
+        },
+        "Additional terminals" :{
+            "value" : ""
+        }
+    },
+    "Parameter Setting":{
+        " Parameter settings of protection relays: ":{
+            "value" : "Customer"
+        },
+        " Parameter Settings of bus interface: " :{
+            "value" : ""
+        },
+        "additionalParamSettings":{
+            "value" : ""
+        }
+    },
+    "Wiring Options" :{
+        " CT circuit " :{
+            "value" : "2,5 (Standard)"
+        },
+        " VT circuit ":{
+            "value" : "1,5 (Standard)"
+        },
+        "Control":{
+            "value" :"1,5 (Standard)"
+        },
+        "Bus Wiring":{
+            "value":""
+        },
+        " Colored Insulation " :{
+            "value" : "Black (Standard)"
+        },
+        " Wire Type ":{
+            "value" : ""
+        },
+        "Wire Marking":{
+            "value" :"Without (Standard)"
+        },
+        "Type :":{
+            "value" : "Adhesive White Label"
+        },
+        "Text":{
+            "value" : "Source and Destination (Standard)"
+        },
+        "Panel Nameplate :" :{
+            "value" : "Plastic holder with paper 140 x 55 mm (Standard)"
+        },
+        "Control :":{
+            "value" : "VBSTB4-FS"
+        },
+        "CT terminals:" :{
+            "value":"UT 6-T/SP"
+        },
+        "Earth terminals :":{
+            "value" : "UT 4-PE"
+        },
+        "Bus Wiring terminals:" : {
+            "value" : "UPC3VK"
+        },
+        "Customer requirements for layout and connection of CT terminals :" :{
+            "value" :"No"
+        },
+        "Customer requirements for layout and connection of VT terminals :" :{
+            "value" :""
+        },
+        "Customer requirements for layout and connection of Tripping terminals" :{
+            "value" :""
+        },
+        "Customer requirement for protection of Open Delta winding and connection of damping resistor :" :{
+            "value" :"No"
+        }
+ 
+    },
+    "Auxiliary Voltage" : {
+        " Auxiliary Voltage " : {
+            "value" : ""
+        }
+    },
+    "Overall switchgear interlocking" :{
+        "Overall switchgear interlocking :" :{
+            "value" :""
+        },
+        "On Load Busbar Transfer:":{
+            "value" : "Not required"
+        },
+        "Load Shedding:":{
+            "value" : "Not Required"
+        },
+        "Others":{
+            "value" : "Detailed Description Required"
+        },
+        "Description": {
+            "value" : ""
+        }
+    },
+    "Detailed Description Required" : {
+        "Overall protection functions :" :{
+            "value" : ""
+        }
+    },
+    "Heater and Lighting" :{
+        "LV compartment lighting:":{
+            "value" :""
+        },
+        "LV compartment Heater:":{
+            "value" :""
+        },
+        "CB Mechanism heater":{
+            "value" :""
+        },
+        "LV compartment Utility Socket Outlet":{
+            "value" :""
+        }
+    },
+    "Remote Control" : {
+        "Remote Control" :{
+            "value" : "No"
+        }
+    },
+    "Typicals Section" :{
+        " Select Typicals ":{
+            "value1" :{
+                "Technical Details for Typical" : "",
+                "Typical Designation" : "",
+                "value" : {
+                    "Additional Earth Switch Functions" : ""
+                }
+            },
+            "value2" :{
+                "Technical Details for Typical" : "",
+                "Protection Relay" :"",
+                "value" : {
+                    "Additional Earth Switch Functions" : "",
+                    "Signals From panel" : []
+                }
+            }
+        }
+    }
+}
